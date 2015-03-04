@@ -12,3 +12,8 @@ Summary of Mojoconf 2015 in New York (UNOFFICIAL)
 * Owner: ? (ssm)
 * A Record: 104.236.173.194 (Owned by Glen Hinkle)
 * MX Records: ?
+
+# Twitter
+
+## mojoconf
+* Owner: Glen Hinkle (tempire)
