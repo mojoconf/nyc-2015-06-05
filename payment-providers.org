@@ -1,0 +1,36 @@
+
+
+
+
+paypal:  http://www.paypal.com
+wepay :  http://www.wepay.com
+stripe:  http://www.stripe.com
+skrill:  http://www.skrill.com
+propay:  http://www.propay.com
+
+| Criteria/Info           | paypal | wepay         | stripe        | skrill         | propay           |
+|-------------------------+--------+---------------+---------------+----------------+------------------|
+| White label             |        |               | Y             |                |                  |
+| Web transaction         |        |               | Y             |                |                  |
+| Mobile transaction      |        |               | Y             |                |                  |
+| Setup fee               |        | Free          |               | Free           |                  |
+| Fraud screening fee     |        | Free          | Free          |                |                  |
+| Refund fee              |        | Free          | Free          | USD$0.49       |                  |
+| Withdrawal fee          |        | Free          |               | Free           |                  |
+| Wire transfer (in) fee  |        |               |               | 5.00%+USD$0.05 | Free             |
+| Wire transfer (out) fee |        |               | USD$0.25      | 1%             | USD$0.35         |
+| Chargeback fee          |        |               | USD$15.00     | USD$20.00      |                  |
+| Transaction fee         |        | 2.9%/USD$0.30 | 2.9%/USD$0.30 | 2.9%/US$0.29   | 2.69% + USD$0.25 |
+| Currency conv fee       |        |               | Market+2%     | 2.99%-4.99%    |                  |
+| Payout threshold        |        |               | T+2d          |                |                  |
+| Transaction threshold   |        |               |               |                | 2-3d             |
+| Mojo plugin             |        |               |               |                |                  |
+| Mojo capable            |        |               |               |                |                  |
+| Global payments         |        |               |               |                |                  |
+| Mobile swipe            |        | N             | N             | N              | Y                |
+| Accept: VISA            |        |               | Y             |                | Y                |
+| Accept: MasterCard      |        |               | Y             |                | Y                |
+| Accept: Amex            |        |               | Y             |                | Y                |
+| Accept: Discover        |        |               | Y             |                | Y                |
+| Accept: JCB             |        |               | Y             |                | N                |
+|                         |        |               |               |                |                  |
