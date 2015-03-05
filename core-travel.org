@@ -1,4 +1,11 @@
+Please add the date / time you intend to arrive at NYC and depart from NYC.
 
+Most of you will arrive day of training, ideally by 3pm.
+
+Take into consideration going to YAPC::NA.  If you are based in the US, you will be
+routed back to origin at end of conference.  For those of you from europe, feel free 
+to give a date of return routing back through NYC.  You will be responsible for
+booking travel between NYC and SLC.
 
 | Criteria                      | kraih   | tempire | jberger | jhthorsen | marcus |
 |-------------------------------+---------+---------+---------+-----------+--------|
