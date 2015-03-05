@@ -24,8 +24,8 @@ propay:  http://www.propay.com
 | Currency conv fee       |        |               | Market+2%     | 2.99%-4.99%    |                  |
 | Payout threshold        |        |               | T+2d          |                |                  |
 | Transaction threshold   |        |               |               |                | 2-3d             |
-| Mojo plugin             |        |               |               |                |                  |
-| Mojo capable            |        |               |               |                |                  |
+| Mojo plugin             | Y      | N             | Y             | N              | N                |
+| Perl capable            | Y      | N             | Y             | N              | N                |
 | Global payments         |        |               |               |                |                  |
 | Mobile swipe            |        | N             | N             | N              | Y                |
 | Accept: VISA            |        |               | Y             |                | Y                |
