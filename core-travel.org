@@ -1,0 +1,10 @@
+
+
+| Criteria                      | kraih | tempire | jberger | jhthorsen | marcus |
+|-------------------------------+-------+---------+---------+-----------+--------|
+| Airport code                  |       |         |         |           |        |
+| Pref. Airline Loyalty program |       |         |         |           |        |
+| Pref. Hotel Loyalty program   |       |         |         |           |        |
+| Arrival date / time           |       |         |         |           |        |
+| Departure date / time         |       |         |         |           |        |
+|                               |       |         |         |           |        |
