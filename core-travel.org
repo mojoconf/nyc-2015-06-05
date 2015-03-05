@@ -9,9 +9,9 @@ booking travel between NYC and SLC.
 
 | Criteria                      | kraih   | tempire | jberger | jhthorsen | marcus |
 |-------------------------------+---------+---------+---------+-----------+--------|
-| Airport code                  | HAM/BRE | SLC     | ORD     | OSL       | OSL    |
+| Airport code                  | BRE (HAM) | SLC     | ORD     | OSL       | OSL    |
 | Pref. Airline Loyalty program |         |         |         | None      |        |
 | Pref. Hotel Loyalty program   |         |         |         | None      |        |
-| Arrival date / time           |         |         |         |           |        |
-| Departure date / time         |         |         |         |           |        |
+| Arrival date / time           |   Jun 4      |         |         |           |        |
+| Departure date / time         |   Jun 9      |         |         |           |        |
 |                               |         |         |         |           |        |
