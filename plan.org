@@ -1,0 +1,603 @@
+
+
+* Conference Website/Description/Logo [33%]
+
+** TODO Create description for each event day [%]                     :riche:
+   SCHEDULED: <2015-03-05 Thu>
+   :with: jberger
+
+   - [ ] Training Day event
+   - [ ] Presentation Day event
+   - [ ] Hackathon Day event
+   - [ ] Twitter message
+
+** TODO Approve daily event description                                :team:
+   SCHEDULED: <2015-03-07 Sat 11:00-11:30>
+
+
+** TODO Publish daily event description  [%]                         :webdev:
+   SCHEDULED: <2015-03-08 Sun>
+
+   - [ ] Create web content
+   - [ ] Tweet twitter release message
+
+** DONE Create Conference on mojoconf.org site                       :webdev:
+   CLOSED: [2015-03-04 Wed 19:06]
+
+** DONE Create Conference logo                                      :tempire:
+   CLOSED: [2015-03-04 Wed 19:06]
+
+** TODO MCT Development (iterations) [0%]                            :batman:
+
+   Note: this only defines iterations (aka milestones).  Jan will be
+   facilitating development efforts.
+
+   1. [ ] Talk submission
+   2. [ ] Payments
+   3. [ ] Talk approvals
+   4. [ ] Speaker information
+   5. [ ] Session timeline management
+   6. [ ] Conference sign-in (maybe) 
+   7. [ ] Conference surveys (maybe)
+
+
+* General [0%]
+
+** Coordinators [0%]
+*** TODO Appoint project core organizer         [50%]                 :riche:
+    :with: jberger
+
+    - [X] Appoint primary    -> riche
+    - [ ] Appoint secondary
+
+*** TODO Appoint project core budget coordinator [0%]                 :riche:
+    :with: jberger
+
+    - [ ] Appoint primary    -> riche
+    - [ ] Appoint secondary
+
+*** TODO Appoint Mojoconf 2015 website programming team [100%]        :riche:
+
+    - [X] core developer     -> jan
+    - [X] designer / UX      -> glen
+
+*** TODO Appoint Sponsorship coordinator [0%]                         :riche:
+
+    - [ ] Appoint primary
+    - [ ] Appoint secondary
+
+*** TODO Appoint Media/marketing coordinator [0%]                     :riche:
+
+    - [ ] Appoint primary
+    - [ ] Appoint secondary
+
+*** TODO Appoint Speakers coordinator        [50%]                    :riche:
+
+    - [X] Appoint primary     -> meredith
+    - [ ] Appoint secondary
+
+*** TODO Appoint Venue coordinator           [50%]                    :riche:
+
+    - [X] Appoint primary     -> Ka Yi Ho
+    - [ ] Appoint secondary
+
+*** TODO Appoint Promotional items coordinator  [%]                   :riche:
+
+    - [ ] Appoint primary
+    - [ ] Appoint secondary
+
+*** TODO Appoint logistic (travel/lodging) coordinator [%]            :riche:
+
+    - [ ] Appoint primary
+    - [ ] Appoint secondary
+
+
+** Plan and budget             [%]                                    :riche:
+
+*** TODO Create Conference budget                                     :riche:
+    SCHEDULED:
+
+**** TODO Agree conference pricing (trainings, presentations, hackathon) :team:
+
+**** TODO Produce conference agenda                                    :rich:
+     SCHEDULED: <2015-03-04 Wed>
+     - [ ] high level agenda drawn out
+
+**** TODO Approve conference agenda                                   :riche:
+     SCHEDULED: <2015-03-10 Tue>
+
+     Coordinate this item with 'Venue' topic
+
+     - [ ] determine costing impacts
+     - [ ] determine "where people go" when arrivals/departures are
+       outside venue rental timeframes
+
+**** TODO Approve conference budget with coordinators                  :team:
+
+
+
+** Report Conference Progress [0%]
+
+*** TODO Report Conference Progress 1                                 :riche:
+    SCHEDULED: <2015-03-14 Sat> 
+
+    - [ ] budget report
+    - [ ] plan report
+
+*** TODO Report Conference Progress 2                                 :riche:
+    SCHEDULED: <2015-03-28 Sat>
+
+    - [ ] budget report
+    - [ ] plan report
+
+*** TODO Report Conference Progress 3                                 :riche:
+    SCHEDULED: <2015-04-11 Sat>
+
+    - [ ] budget report
+    - [ ] plan report
+
+*** TODO Report Conference Progress 4                                 :riche:
+    SCHEDULED: <2015-04-25 Sat>
+
+    - [ ] budget report
+    - [ ] plan report
+
+*** TODO Report Conference Progress 5                                 :riche:
+    SCHEDULED: <2015-05-09 Sat>
+
+    - [ ] budget report
+    - [ ] plan report
+
+*** TODO Report Conference Progress 6                                 :riche:
+    SCHEDULED: <2015-05-23 Sat>
+
+    - [ ] budget report
+    - [ ] plan report
+
+*** TODO Report Conference Progress 7                                 :riche:
+    SCHEDULED: <2015-06-02 Tue>
+
+    - [ ] budget report
+    - [ ] plan report
+
+** Speakers
+*** TODO Draft Call-for-Papers messages [%]                           :riche:
+    SCHEDULED: <2015-03-06 Fri>
+
+
+    - [ ] Long format
+    - [ ] Short format
+    - [ ] Tweet format
+
+*** TODO Approve Call-for-Papers messages [%]                       :jberger:
+    SCHEDULED: <2015-03-08 Sun>
+    :with:     tempire
+
+    - [ ] jberger approval
+    - [ ] tempire approval
+
+*** Publish Call-for-Papers messages [%]                             :webdev:
+    SCHEDULED: <2015-03-09 Mon>
+
+    - [ ] Web published
+    - [ ] Twitter published
+
+*** Identify possible speakers                                     :meredith:
+    SCHEDULED: <2015-03-25 Wed>
+
+    There are speakers who already know about mojoconf and already
+    intend to submit an abstract.  There are others who have compelling
+    backgrounds and can positively contribute to the conference.
+    Identify and recruit.
+
+*** Draw up shortlist                                              :meredith:
+    SCHEDULED: <2015-03-28 Sat>
+    :with: riche
+
+
+    based on 70% content to be covered by normal submission process,
+    shortlist candidates based on capacity.
+
+*** Invite speakers [%]                                            :meredith:
+    SCHEDULED: <2015-03-30 Mon>
+
+    - [ ] Invitation long format
+    - [ ] Invitation short format
+    - [ ] Determine contact medium (email / twitter / etc)
+    - [ ] Invitations sent
+
+*** Obtain and agree session abstracts
+    SCHEDULED: <2015-04-12 Sun>
+
+    This is the abstract submission deadline.
+
+    - [ ] Collate session candidates
+    - [ ] Rank and approve sessions
+
+*** Confirm speakers
+    SCHEDULED: <2015-04-13 Mon>
+
+    - [ ] Create speaker confirmation email template
+    - [ ] Create speaker engagement criteria
+
+*** Obtain speaker biographies and abstracts
+    SCHEDULED: <2015-04-14 Sun>
+
+    
+    
+
+*** Publish speakers bio and abstracts
+    SCHEDULED: <2015-05-03 Sun>
+
+    - [ ] All accepted speakers have input bio information
+    - [ ] QA bio information
+    - [ ] Publish to (or enable rendering on) mojoconf.org 
+
+*** Draft presentations timetable
+    SCHEDULED: <2015-04-26 Sun>
+
+    - [ ] Drafted in open format
+    - [ ] Posted to repository
+
+*** Approve presentations timetable
+    SCHEDULED: <2015-05-01 Fri>
+
+*** Publish presentations timetable
+    SCHEDULED: <2015-05-03 Sun>
+
+** Trainers [%]
+*** Agree Training payment model and payment method
+
+
+*** Draft Call-for-trainers messages [0%]
+    Already completed - two trainers
+    - Glen Hinkle
+    - brian d foy
+
+*** DONE Approve Call-for-trainers messages
+    CLOSED: [2015-03-05 Thu 19:32]
+*** DONE Publish Call-for-trainers messages
+    CLOSED: [2015-03-05 Thu 19:33]
+*** DONE Identify possible trainers
+    CLOSED: [2015-03-05 Thu 19:33]
+
+*** DONE Draw up trainer shortlist
+    CLOSED: [2015-03-05 Thu 19:33]
+
+*** DONE Invite trainers
+    CLOSED: [2015-03-05 Thu 19:33]
+
+*** DONE Confirm trainers
+    CLOSED: [2015-03-05 Thu 19:33]
+    CONFIRMED
+
+    - Glen Hinkle
+    - brian d foy
+
+*** Obtain trainer biographies and abstracts
+    SCHEDULED: <2015-03-16 Mon>
+
+*** Obtain and approve training descriptions
+    SCHEDULED: <2015-03-11 Wed>
+
+*** Publish trainers bio and course descriptions
+    SCHEDULED: <2015-03-14 Sat>
+
+
+** Hackathon
+
+*** Draft Call-for-hackathon hosts messages
+
+*** Approve Call-for-hackathon host messages
+
+*** Publish Call-for-hackathon hosts messages
+
+*** Identify possible Call-for-hackathon hosts messages
+
+*** Approve Call-for-hackathon host/s
+
+*** Invite Call-for-hackathon host/s
+
+*** Obtain Hackathon Host bio and abstracts
+
+*** Publish Hackathon Host bio and abstracts
+
+
+** Venue
+*** Identify candidate venues
+
+*** Get venue quotes and availability
+
+*** Agree venue
+
+*** Agree date
+
+*** Sign venue contract
+
+*** Update Conference budget
+
+*** Decide on Catering option
+
+*** Determine equipment requirements
+
+    Dependent on layouts
+
+    - [ ] network
+    - [ ] projectors aka beamers
+    - [ ] electrical // throughput, extensions
+    - [ ] cameras
+    - [ ] projector screens
+    - [ ] tables, chairs
+
+*** Decide on room layout [%]
+
+- [ ] Training rooms layout
+- [ ] General session layout
+- [ ] Breakout session layout
+- [ ] Lunch / Morning|Afternoon Tea Layout
+- [ ] Hackathon Layous
+
+
+
+** Marketing
+
+*** Draft conference related information: date|venue|agenda|training|presentations|hackathon
+*** Approve conference related information
+*** Put conference information on website and event management sites
+*** Draft conference invitation email for mass email campaign
+*** Send out conference invitation email to all Perl Mongers groups
+*** Create Facebook discussion
+*** Create LinkedIn discussion
+*** Feed Twitter constantly
+*** Create conference-related article/social media messages
+*** Publish Pre-Conference blog [%]
+
+**** Entry 1: <topic> [%]                                           :jberger:
+     SCHEDULED: <2015-03-20 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 2:                                                       :jberger:
+     SCHEDULED: <2015-03-27 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 3:                                                       :jberger:
+     SCHEDULED: <2015-04-03 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 4:                                                       :jberger:
+     SCHEDULED: <2015-04-10 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 5:                                                       :jberger:
+     SCHEDULED: <2015-04-17 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 6:                                                       :jberger:
+     SCHEDULED: <2015-04-24 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 7:                                                       :jberger:
+     SCHEDULED: <2015-05-01 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 8:                                                       :jberger:
+     SCHEDULED: <2015-05-08 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 9:                                                       :jberger:
+     SCHEDULED: <2015-05-15 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 10:                                                      :jberger:
+     SCHEDULED: <2015-05-22 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 11:                                                      :jberger:
+     SCHEDULED: <2015-05-29 Fri>
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 12:                                                      :jberger:
+     SCHEDULED: <2015-06-03 Wed>
+     Evening before training
+
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 13:                                                      :jberger:
+     SCHEDULED: <2015-06-04 Wed>
+
+     Training day entry
+
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 14:                                                      :jberger:
+     SCHEDULED: <2015-06-05 Wed>
+
+     Presentations day entry
+
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+**** Entry 15:                                                      :jberger:
+     SCHEDULED: <2015-06-06 Wed>
+
+     End of Hackathon entry
+     
+     - [ ] Create conference-related article/social media messages
+     - [ ] Publish article/messages
+     - [ ] Tweet message
+
+
+
+** Promotional Merchandise
+*** Approve quantity and budget for conference T-Shirt purchase 
+*** Confirm t-shirt purchase deadline and method of payment
+*** Place t-shirt order with merchant
+*** Identify possible promotional items
+*** Approve promotional items and budget
+*** Order promotional items
+
+* Conference Logistics
+
+** Pre-Conference [%]
+*** Travel/Lodging for Core Team [%]
+    The conference will attempt to cover airfare and accomodation for
+    core team members.
+
+**** Identify travel and lodging requirements and payment method [%]
+
+     - [ ] Special requirements documented
+     - [ ] Outbound airport hubs identified
+     - [ ] Airline/Hotel loyalty programs identified
+     - [ ] Inbound / Outbound date/time identified
+
+**** Draft travel and lodging budget [%]
+
+     - [ ] Airline costs identified in USD
+     - [ ] Hotel costs identified in USD
+
+**** Circulate travel and lodging budget around core team [%]
+
+     - [ ] Publish budget with travel costs
+     - [ ] Allow time to get feedback (3d)
+
+**** Approve travel and lodging budget [%]
+
+     - [ ] Determine funding probability
+     - [ ] Communicate probabilities
+
+**** Communicate travel and lodging booking deadlines with core team [%]
+
+     - [ ] 
+
+*** Keynote Presentations [%]
+    Keynotes are held during the general session on presentation day
+
+**** Identify keynote presenters [%]
+     SCHEDULED: <2015-04-03 Fri>
+
+     - [ ] Identify presenter 1 (platinum sponsor) - 10m
+     - [ ] Identify presenter 2 (platinum sponsor) - 10m
+     - [ ] Identify presenter 3 => sri             - 20m
+
+**** Communicate presentation deadlines to keynote presenter
+     SCHEDULED: <2015-04-03 Fri>
+
+**** Obtain keynote speaker bio and abstract
+     SCHEDULED: <2015-05-01 Fri>
+
+**** Circulate draft presentations around core team
+     SCHEDULED: <2015-05-15 Fri>
+
+**** Interactive session walkthroughs
+
+**** Final presentations submitted and placed under change control
+     SCHEDULED: <2015-05-22 Fri>
+
+**** Create QA form
+
+**** Presentations printed out for delegates
+     May not be required
+
+*** Staffing [%]
+**** Draw up staffing requirements [%]
+
+     - [ ] Identify staff required (make task below to allocate)
+     - [ ] Write role requirements / duties
+     - [ ] Publish role requirements / duties
+
+**** Confirm Host [%]
+
+     - [ ] Named person
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+**** Confirm check-in coordinator [%]
+
+     - [ ] Named person
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+**** Confirm floor coordinator [%]
+
+     - [ ] Named person
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+**** Confirm conference blogger [25%]
+
+     - [X] Named person       -> jberger
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+**** Confirm tech support coordinator [%]
+
+     - [ ] Named person
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+**** Confirm training coordinator [25%]
+
+     - [X] Named person      -> meredith
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+**** Confirm catering coordinator [%]
+
+     - [ ] Named person
+     - [ ] Named backup
+     - [ ] Get email contact
+     - [ ] Get phone contact
+
+
+
+* Pre-Conference Staging [%]
+  Storing all conference assets close to venue prior to conference
+
+* In-Conference
+
+
+
+
+* Post Conference Evaluation
+** Place presentations and report on website
+** Sent out any agreed output
+** Write to thanks presenters and offer feedback if required
+** Create conference report
+** Send out Conference report in next newsletter
+** Send conference report to press
+** Submit final project P/L statement to Treasurer
+
+
