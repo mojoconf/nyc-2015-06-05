@@ -1,0 +1,25 @@
+#+TITLE: Mojoconf 2015 Call for Papers - Long
+
+* Mojoconf 2015 Call for Papers
+
+Want to tell everyone about your success with Mojolicious?  Come to
+Mojoconf 2015 and speak about it!
+
+This year, we are looking for proposals that fit into one of the
+following four categories:
+
+- WebDev: How Mojolicious enabled you to develop web applications
+  faster and with more elegance than ever before
+- WebOps: What you do to build, maintain, and continuously deliver
+  Mojolicious Apps
+- WebAPIs: Who you've integrated with and why Mojolicious is the
+  choicest platform for the job
+- Case Study: Tell us how Mojolicious exceeded your mission critical
+  project's expectations
+
+* Speaker Benefits
+
+- Complimentary Mojoconf 2015 pass
+- Free conference T-Shirt
+- Street cred :)
+

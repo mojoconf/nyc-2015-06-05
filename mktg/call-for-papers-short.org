@@ -1,0 +1,6 @@
+#+TITLE: Mojoconf 2015 Call for Papers - Short
+
+Want to tell everyone about your success with Mojolicious?  Ready to
+talk about your WebDev, WebOps, WebAPI, or Case Study? Come to
+Mojoconf 2015 and speak about it!
+
