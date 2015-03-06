@@ -1,0 +1,66 @@
+
+* Conference Scheduling
+
+** Training Day
+
+| Start |   End | Section       |
+|-------+-------+---------------|
+| 07:30 | 08:45 | Setup         |
+| 08:30 | 09:00 | Arrivals      |
+| 09:00 | 10:30 | (Session)     |
+| 10:30 | 10:45 | Morning Tea   |
+| 10:45 | 12:30 | (Session)     |
+| 12:30 | 13:30 | Lunch         |
+| 13:30 | 15:15 | (Session)     |
+| 15:15 | 15:30 | Afternoon Tea |
+| 15:30 | 17:00 | (Session)     |
+
+  
+*** Training Room 1 Setup
+
+- [ ] TBD Off-Site Prep Checklist
+- [ ] TBD On-Site Setup Checklist
+
+*** Training Room 2 Setup
+
+- [ ] TBD Off-Site Prep Checklist
+- [ ] TBD On-Site Setup Checklist
+
+** Presentation Day
+
+| Start |   End | Section                          |
+|-------+-------+----------------------------------|
+| 07:30 | 08:45 | Setup                            |
+| 08:45 | 09:00 | Position Exhibitors              |
+| 08:00 | 09:30 | Conference sign-in               |
+| 09:00 | 09:30 | Seating, Morning Food/Drink      |
+| 09:30 | 09:35 | General Session: Intro Video     |
+| 09:35 | 09:45 | General Session: MC Day Overview |
+| 09:45 | 10:05 | General Session: Keynote 1       |
+| 10:05 | 10:25 | General Session: Keynote 2       |
+| 10:25 | 10:40 | Morning Tea                      |
+| 10:40 | 12:30 | Breakout Sessions                |
+| 12:30 | 13:30 | Lunch, Exhibitors                |
+| 13:30 | 15:00 | Breakout Sessions                |
+| 15:00 | 15:20 | Afternoon Tea, Exhibitors        |
+| 15:20 | 16:40 | Breakout Sessions                |
+| 16:40 | 17:00 | Closure, Awards                  |
+| 18:00 | 20:00 | Conference Party                 |
+
+** Hackathon Day
+
+| Start |   End | Section                          |
+|-------+-------+----------------------------------|
+| 08:00 | 09:00 | Setup                            |
+| 09:00 | 09:30 | Breakfast                        |
+| 10:05 | 10:25 | Hack Session                     |
+| 10:25 | 10:40 | Morning Tea                      |
+| 10:40 | 12:30 | Hack Session                     |
+| 12:30 | 13:30 | Lunch                            |
+| 13:30 | 15:00 | Hack Session                     |
+| 15:00 | 15:20 | Afternoon Tea, Exhibitors        |
+| 15:20 | 16:40 | Hack Session                     |
+| 16:40 | 17:00 | Closure                          |
+
+
+
