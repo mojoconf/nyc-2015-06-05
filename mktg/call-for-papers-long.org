@@ -17,6 +17,10 @@ following four categories:
 - Case Study: Tell us how Mojolicious exceeded your mission critical
   project's expectations
 
+* Paper Submission Deadline
+
+The call for papers deadline is March 31, 2015.  Papers may be considered after that point on a case-by-case basis.
+
 * Speaker Benefits
 
 - Complimentary Mojoconf 2015 pass
