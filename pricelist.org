@@ -1,0 +1,15 @@
+
+
+
+| Price       | Item                                                |
+|-------------+-----------------------------------------------------|
+| USD$50.00   | Conference + Hackathon Early Bird - Until April 10  |
+| USD$99.00   | Conference + Hackathon                              |
+| USD$799.00  | Training - Non-Blocking Apps with Mojolicious       |
+| USD$799.00  | Training - Modernizing CGI.pm Apps with Mojolicious |
+| USD$7000.00 | Sponsorship: Platinum                               |
+| USD$3500.00 | Sponsorship: Gold                                   |
+| USD$1500.00 | Sponsorship: Silver                                 |
+| USD$5000.00 | Sponsorship: Hackathon                              |
+| USD$1000.00 | Sponsorship: Individual                             |
+| USD$3000.00 | Sponsorship: Coffee Bar                             |
