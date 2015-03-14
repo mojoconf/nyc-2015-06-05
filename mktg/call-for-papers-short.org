@@ -4,4 +4,5 @@ Want to tell everyone about your success with Mojolicious?  Ready to
 talk about your WebDev, WebOps, WebAPI, or Case Study? Come to
 Mojoconf 2015 and speak about it!  The submission deadline is March 31, 2015.
  
+https://www.mojoconf.com/2015/cfp
 
