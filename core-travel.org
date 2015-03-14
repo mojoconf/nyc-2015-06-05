@@ -7,13 +7,13 @@ routed back to origin at end of conference.  For those of you from europe, feel 
 to give a date of return routing back through NYC.  You will be responsible for
 booking travel between NYC and SLC.
 
-| Criteria                      | kraih   | tempire | jberger | jhthorsen | marcus |
-|-------------------------------+---------+---------+---------+-----------+--------|
+| Criteria                      | kraih     | tempire | jberger | jhthorsen | marcus |
+|-------------------------------+-----------+---------+---------+-----------+--------|
 | Airport code                  | BRE (HAM) | SLC     | ORD     | OSL       | OSL    |
-| Pref. Airline Loyalty program |         |         | None     | None      |        |
-| Pref. Hotel Loyalty program   |         |         | None     | None      |        |
-| Arrival date / time           |   Jun 4      |         |         |           |        |
-| Departure date / time         |   Jun 9      |         |         |           |        |
-|                               |         |         |         |           |        |
+| Pref. Airline Loyalty program |           |         | None    | None      | SAS    |
+| Pref. Hotel Loyalty program   |           |         | None    | None      | SAS    |
+| Arrival date / time           |   Jun 4   |         |         |           | Jun 5. |
+| Departure date / time         |   Jun 9   |         |         |           | Jun 8. |
+|                               |           |         |         |           |        |
 
 jberger = going to YAPC::NA too, will be staying SLC for a while afterwards to visit friends
