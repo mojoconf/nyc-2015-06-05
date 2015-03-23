@@ -64,3 +64,105 @@
 
 
 
+
+* Conference Public Schedule and Synopsis
+
+** June 4th :: Training Day
+
+We have two excellent training courses for you to choose from.  Expert
+trainers squeeze in nearly two days of content into fast paced,
+exceedingly masterful courses.  We provide food and snacks -- no
+reason to get distracted or worry about where to get food!
+
+A perfect way to get amped on Mojolicious prior to the conference!
+
+*Note*: This offering is not included with the conference fee.  You
+will need to sign up for this offering separately.
+
+| Start |   End | Section         |
+|-------+-------+-----------------|
+| 07:30 | 08:45 | Setup           |
+| 08:30 | 09:00 | Arrivals        |
+| 09:00 | 10:30 | (Session)       |
+| 10:30 | 10:45 | Morning Break   |
+| 10:45 | 12:30 | (Session)       |
+| 12:30 | 13:30 | Lunch           |
+| 13:30 | 15:15 | (Session)       |
+| 15:15 | 15:30 | Afternoon Break |
+| 15:30 | 17:00 | (Session)       |
+
+** June 5th :: Conference Day
+
+Conference Day takes center stage on June 5th.  After the general
+sessions in the morning, you will have a choice to take on the WebDev
+or WebOps track -- each of them offering talks in technologies,
+methods, and patterns that can directly influence your current
+projects as well as your next innovation!
+
+During breaks and lunch, make sure to meet our sponsors. With products
+and services either using or promoting Mojolicious, you will have an
+opportunity to network with those who care.
+
+Don't miss the evening event! It will surely be a great way relax
+after an information and action packed day.
+
+| Start |   End | Section                          |
+|-------+-------+----------------------------------|
+| 07:30 | 08:45 | Setup                            |
+| 08:45 | 09:00 | Position Exhibitors              |
+| 08:00 | 09:30 | Conference sign-in               |
+| 09:00 | 09:30 | Seating, Morning Food/Drink      |
+| 09:30 | 09:35 | General Session: Intro Video     |
+| 09:35 | 09:45 | General Session: MC Day Overview |
+| 09:45 | 10:05 | General Session: Keynote 1       |
+| 10:05 | 10:25 | General Session: Keynote 2       |
+| 10:25 | 10:40 | Morning Break                    |
+| 10:40 | 12:30 | Breakout Sessions                |
+| 12:30 | 13:30 | Lunch, Exhibitors                |
+| 13:30 | 15:00 | Breakout Sessions                |
+| 15:00 | 15:20 | Afternoon Break, Exhibitors      |
+| 15:20 | 16:40 | Breakout Sessions                |
+| 16:40 | 17:00 | Closure, Awards                  |
+| 18:00 | 20:00 | Conference Party                 |
+
+** June 6th :: Hackathon Day
+
+Saturdays were born to be hacking days!  This hackathon focuses on
+WebDev and WebOps with Mojolicious.  There will be three breakouts --
+one of which hasn't been announced yet!
+
+Like training and conference day, snacks and food will be provided!
+Make sure to thank our Hackathon sponsor during your breaks from the
+keyboard.
+
+_Breakout One_: Mojo Plugin Madness!
+
+In this Hackathon breakout, a couple of the Mojolicious Core Team will
+be driving a run-though of all the Plugin bugs and facilitating fixes
+and modernization for them.  The hacker with the largest number of
+accepted pull requests gets a prize!
+
+_Breakout Two_: MCT Payments a Plenty!
+
+MCT, the Mojolicious Conference Toolkit, comes with one payment system
+capability built in.  We will work our way through adding three more!
+Learn all about online payments and how to integrate payment providers
+in a highly responsive way.
+
+_Breakout Three_:  TBA
+
+
+| Start |   End | Section                          |
+|-------+-------+----------------------------------|
+| 08:00 | 09:00 | Setup                            |
+| 09:00 | 09:30 | Breakfast                        |
+| 10:05 | 10:25 | Hack Session                     |
+| 10:25 | 10:40 | Morning Break                    |
+| 10:40 | 12:30 | Hack Session                     |
+| 12:30 | 13:30 | Lunch                            |
+| 13:30 | 15:00 | Hack Session                     |
+| 15:00 | 15:20 | Afternoon Break, Exhibitors      |
+| 15:20 | 16:40 | Hack Session                     |
+| 16:40 | 17:00 | Closure                          |
+
+
