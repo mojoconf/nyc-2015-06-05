@@ -1,15 +1,17 @@
 
 
+Note: pricing for Conference + Hackathon switches from 50 to 99 at the
+end of April (do not list both at the same time)
 
-| Web Purchase | Price       | Item                                                |
-|--------------+-------------+-----------------------------------------------------|
-| Yes          | USD$50.00   | Conference + Hackathon Early Bird - Until April 10  |
-| Yes          | USD$99.00   | Conference + Hackathon                              |
-| Yes          | USD$799.00  | Training - Non-Blocking Apps with Mojolicious       |
-| Yes          | USD$799.00  | Training - Modernizing CGI.pm Apps with Mojolicious |
-| Not yet      | USD$7000.00 | Sponsorship: Platinum                               |
-| Not yet      | USD$3500.00 | Sponsorship: Gold                                   |
-| Not yet      | USD$1500.00 | Sponsorship: Silver                                 |
-| Not yet      | USD$5000.00 | Sponsorship: Hackathon                              |
-| Not yet      | USD$1000.00 | Sponsorship: Individual                             |
-| Not yet      | USD$3000.00 | Sponsorship: Coffee Bar                             |
+| Web Purchase | Price       | Count | Item                                                |
+|--------------+-------------+-------+-----------------------------------------------------|
+| Yes          | USD$50.00   |    50 | Conference + Hackathon Early Bird - Until April 10  |
+| Yes          | USD$99.00   |    50 | Conference + Hackathon                              |
+| Yes          | USD$799.00  |    18 | Training - Non-Blocking Apps with Mojolicious       |
+| Yes          | USD$799.00  |    18 | Training - Modernizing CGI.pm Apps with Mojolicious |
+| Not yet      | USD$7000.00 |       | Sponsorship: Platinum                               |
+| Not yet      | USD$3500.00 |       | Sponsorship: Gold                                   |
+| Not yet      | USD$1500.00 |       | Sponsorship: Silver                                 |
+| Not yet      | USD$5000.00 |       | Sponsorship: Hackathon                              |
+| Not yet      | USD$1000.00 |       | Sponsorship: Individual                             |
+| Not yet      | USD$3000.00 |       | Sponsorship: Coffee Bar                             |
