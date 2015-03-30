@@ -107,7 +107,7 @@ situationally-based decisions for your application's infrastructure.
 
 1. Choosing between deployment architectures
 2. Apache CGI 
-3. Horuku deployment
+3. Heroku deployment
 4. Continuous deployment
 
 
