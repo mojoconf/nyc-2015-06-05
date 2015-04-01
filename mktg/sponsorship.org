@@ -1,6 +1,47 @@
 #+TITLE: Mojoconf 2015 Sponsorship Packages
 
-* Platinum           US$7,000   Two Available 
+* Landing Page
+
+Header: Sponsorship
+
+Mojoconf corporate and individual sponsorships are available.
+Sponsorship levels and benefits are available <here>.  Get in early to
+take advantage of pre-event benefits!
+
+* Sponsorship Page
+
+Our sponsors make Mojoconf the best it can be.  Without them, it would
+be difficult to bring you an amazing conference experience.  Take the
+time to see who's sponsoring -- their products and services directly
+benefit Mojolicious developers.
+
+*Interested in sponsoring?* Download the <Prospectus> and choose the
+sponsorship level that is right for you.
+
+** Our Platinum Sponsors
+
+<box sponsor 1 - vlarge><box sponsor 2 - vlarge>
+
+** Hackathon and Coffee Bar Sponsors
+
+<box sponsor 1 - vlarge><box sponsor 2 - vlarge>
+
+** Our Gold Sponsors
+
+<box sponsor 1 - large><box sponsor 2 - large><box sponsor 3 - large><box sponsor 4 - large>
+
+** Our Silver Sponsors
+
+<box sponsor 1 - med><box sponsor 2 - med><box sponsor 3 - med><box sponsor 4 - med>
+<box sponsor 1 - med><box sponsor 2 - med><box sponsor 3 - med><box sponsor 4 - med>
+<box sponsor 1 - med><box sponsor 2 - med>
+
+
+** Individual Sponsors
+<individual profile pics and names or github handles>
+
+* Levels
+** Platinum           US$7,000   Two Available 
 
 - Three Conference Passes
 - Three Training Passes
@@ -14,7 +55,7 @@
 - Recognition during Keynote
 - Recognition during Closing
 
-* Gold               US$3,500   Four Available
+** Gold               US$3,500   Four Available
 
 - Two Conference Passes
 - Two Training Passes
@@ -27,7 +68,7 @@
 - Recognition during Keynote
 - Recognition during Closing
 
-* Silver             US$1,500   Ten Available
+** Silver             US$1,500   Ten Available
 
 - One Conference Pass
 - One Training Pass
@@ -37,7 +78,7 @@
 - One-sixth page advertising in conference program
 - 2' round table available during conference breaks and lunch
 
-* Hackathon Sponsor  US$5,000   Two Available
+** Hackathon Sponsor  US$5,000   Two Available
 
 - One Conference Pass
 - One Training Pass
@@ -50,7 +91,7 @@
 - Half page advertising in conference program
 - 2' round table available during conference breaks and lunch
 
-* Individual         US$1,000   Twenty Available
+** Individual         US$1,000   Twenty Available
 
 - One Conference Pass
 - One Training Pass
