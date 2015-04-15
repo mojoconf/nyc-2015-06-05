@@ -111,5 +111,5 @@ situationally-based decisions for your application's infrastructure.
 4. Continuous deployment
 
 
-Copyright (C) 2015 brian d foy and RAE CONSULTING LLC., All Rights Reserved.
+Copyright (C) 2015 brian d foy, All Rights Reserved.
 
