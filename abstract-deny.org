@@ -1,0 +1,22 @@
+Hello [name],
+
+We regret to inform you that your abstract was not accepted for
+Mojoconf 2015.
+
+There could have been many reasons for this decision, and none of them
+is about the individual person.  Usually, the talk could not be fit
+into a slot, there were too many similar topics, or the abstract
+itself was not specific enough.
+
+In lieu of this decision, we are happy to provide you with a 15%
+discount for the conference.  When booking your ticket, please use
+this coupon code:
+
+[CODE]
+
+Also, if we by chance have a slot open up, we will reconsider all
+abstracts that were not initially accepted.
+
+We look forward to seeing you at Mojoconf 2015!
+
+The Mojoconf Team

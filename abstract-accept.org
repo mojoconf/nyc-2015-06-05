@@ -1,0 +1,24 @@
+Hello [name],
+
+We're happy to let you know that your abstract titled [name] has been
+accepted for Mojoconf 2015!
+
+What's going to happen next?
+
+We're expecting you! Please let us know as soon as possible if you
+have confirmed your travel arrangements and confirmed with your work
+and/or clients, if applicable.
+
+We are looking forward to a great presentation!  If you would like to
+have a presentation review, whether it be content or design, let us
+know!
+
+Finally, we are just so excited to see your talk in action.  Remember,
+by default your session will be recorded with video and audio.  If you
+don't want to or can't be recorded please let us know at
+hello@mojoconf.com as soon as possible.
+
+Thanks again, and we're looking forward to seeing you at the
+conference!
+
+The Mojoconf Team
