@@ -1,0 +1,29 @@
+ABSTRACT ACCEPTANCE CRITERIA
+============================
+
+Must Have Criteria
+------------------
+
+1) Must be Mojolicious related.
+2) Must be of 20 minute or 40 minute duration.
+3) The speaker must have demonstrated experience with the topic.
+4) The abstract must conform to the conference theme.
+5) The abstract must be clear and have a specific outcome or message.
+6) The abstract must *not* put down, chastise, or deliberately infer
+   incompetence of other solutions.
+7) The abstract must *not* include marketing or "plugs" unless agreed
+   to by Mojoconf staff.  If the talk, when given, includes content
+   that is not inline with the spirit of this requirement, the
+   attendee will not be asked to speak at future conferences and may
+   relinquish any benefit attributed to speakers.
+   a) This requirement is not attributed to Sponsors at specific
+      levels as defined in the Prospectus.
+
+Nice to Have Criteria
+---------------------
+
+1) Recorded demonstrations.
+2) Live demonstrations.
+3) Handouts.
+4) Engagement with attendees, i.e. mini-workshop.
+
